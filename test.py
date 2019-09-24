@@ -1,8 +1,8 @@
 import turtle 
 
 screen = turtle.Screen()
-bgcolor = ("pink")
-drawing_turtle = turtle.turtle()
+screen.bgcolor = ("pink")
+drawing_turtle = turtle.Turtle()
 
 
-turtle.end()
+turtle.done()
