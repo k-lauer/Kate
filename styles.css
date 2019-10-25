@@ -1,0 +1,7 @@
+@import url(burgerstyles.css);
+:root {
+    --height-factor: 1.5;}
+
+nav ul li {
+    list-style-type: none;
+}
