@@ -4,4 +4,13 @@
 
 nav ul li {
     list-style-type: none;
+    display:block; 
+}
+a{
+    display:inherit;
+}
+nav {
+    overflow: hidden;
+    position: fixed;
+    background-color;
 }
